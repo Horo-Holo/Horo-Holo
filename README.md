@@ -1,7 +1,9 @@
 ### Hi there 👋
-### 总访问量
+### 😘 主页浏览量
 ![总访问量](https://komarev.com/ghpvc/?username=Horo-Holo&color=green)
 <br>
+
+<div align="center"> <img src="[https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/insights?user=Horo-Holo)"> </div>
 
 ### 🥳 个人GitHub统计
 
