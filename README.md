@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![总访问量]（https://komarev.com/ghpvc/?username=Horo-Holo）
+![fangwen1](https://komarev.com/ghpvc/?username=Horo-Holo&color=green)
 
 
