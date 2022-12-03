@@ -4,7 +4,7 @@
 <br>
 
 ### 测试
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horo-Holo&theme=dracula)](https://github.com/Horo-Holo)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horo-Holo&theme=dracula)](https://github.com/Horo-Holo/DesignPattrens)
 
 
 ### 🥳 个人GitHub统计
