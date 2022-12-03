@@ -7,4 +7,4 @@
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Horo-Holr&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horo-Holr&&hide=tsql) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Horo-Holo&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horo-Holo&&hide=tsql) |
