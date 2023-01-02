@@ -3,9 +3,6 @@
 ### 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Horo-Holo&theme=github)
 
-### 主页浏览量
-![总访问量](https://komarev.com/ghpvc/?username=Horo-Holo&color=blue)
-<br>
 
 
 ### 个人GitHub统计
